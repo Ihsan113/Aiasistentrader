@@ -1,0 +1,17 @@
+{
+  "source": "manual_confirmed_ocr",
+  "symbol": "XAUUSDm",
+  "timeframe": "M5",
+  "price": 4100.273,
+  "unverified_price_from_ocr": null,
+  "rsi14": 62.36,
+  "atr14": 7.056,
+  "ema20": null,
+  "ema50": null,
+  "macd_histogram": null,
+  "market_structure_user_input": "BEARISH",
+  "notes_user_input": "Pantulan naik setelah tren turun; belum ada close rejection.",
+  "price_confirmed_by_user": true,
+  "timestamp_utc_ms": 1792660000000,
+  "ocr_lines_normalized": []
+}
